@@ -1,0 +1,130 @@
+[
+    {
+        "_id": "1",
+        "name": "Clear View Cover Case to Galasy 2016 Pink",
+        "type": "Cases",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam1.png",
+        "price": "248.00",
+        "stock": "92"
+    },
+    {
+        "_id": "2",
+        "name": "UltraBook UX305CA-FC050T",
+        "type": "Smartphones",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/redmi.png",
+        "price": "1,200.00",
+        "stock": "2"
+    },
+    {
+        "_id": "3",
+        "name": "Laptop Yoga 14 80JH0035GE W8.1",
+        "type": "Smartphones",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/sam1.png",
+        "price": "3,485.00",
+        "stock": "71"
+    },
+    {
+        "_id": "4",
+        "name": "Smartwatch 2.0 LTE Wifi Waterproof",
+        "type": "All in One",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/applwatch.png",
+        "price": "725.00",
+        "stock": "81"
+    },
+    {
+        "_id": "5",
+        "name": "Smart Camera 6200U with 500GB SDcard",
+        "type": "Cameras",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/cam4k.png",
+        "price": "2,999.00",
+        "stock": "42"
+    },
+    {
+        "_id": "6",
+        "name": "UltraBook UX605CA-FC050T",
+        "type": "Smartphones",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/one1plus.png",
+        "price": "1,218.00",
+        "stock": "14"
+    },
+    {
+        "_id": "7",
+        "name": "Wireless Charger 2040 White",
+        "type": "Chargers",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/whirelesscar.png",
+        "price": "248.00",
+        "stock": "12"
+    },
+    {
+        "_id": "8",
+        "name": "Tablet White EliteBook Revolve 810 G5",
+        "type": "Tablets",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/ipadgreen.png",
+        "price": "1,999.00",
+        "stock": "92"
+    },
+    {
+        "_id": "9",
+        "name": "Tablet Thin EliteBook Revolve 810 G2",
+        "type": "Smartphones",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/redPhone.png",
+        "price": "1,300.00",
+        "stock": "11"
+    },
+    {
+        "_id": "10",
+        "name": "External SSD USB 3.1 750 GB",
+        "type": "Peripherals",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/segagate.png",
+        "price": "385.00",
+        "stock": "9"
+    },
+    {
+        "_id": "11",
+        "name": "Headphones USB Wires",
+        "type": "Headphone Accessories",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/usbheadphone.png",
+        "price": "50.00",
+        "stock": "34"
+    },
+    {
+        "_id": "12",
+        "name": "White NX Mini F1 SMART NX",
+        "type": "Cameras",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/camera2.png",
+        "price": "559.00",
+        "stock": "92"
+    },
+    {
+        "_id": "13",
+        "name": "Gear Virtual Reality",
+        "type": "Wearables",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/occlod.png",
+        "price": "799.00",
+        "stock": "92"
+    },
+    {
+        "_id": "14",
+        "name": "PenDrive USB 3.0 Flash 64 GB",
+        "type": "Bluetooth Speakers",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/pendirve.png",
+        "price": "110.00",
+        "stock": "92"
+    },
+    {
+        "_id": "15",
+        "name": "External SSD USB 3.1 750 GB",
+        "type": "PenDrives",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/segagate.png",
+        "price": "385.00",
+        "stock": "79"
+    },
+    {
+        "_id": "13",
+        "name": "PowerBank 11 300 mAh Violet with Fox",
+        "type": "Power Banks",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2016/03/power.png",
+        "price": ",300.00",
+        "stock": "18"
+    }
+]

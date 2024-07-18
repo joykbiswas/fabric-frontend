@@ -1,0 +1,48 @@
+[
+    {
+        "_id": "1",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2021/11/prodcut6.png",
+        "name": "Tablet Thin EliteBook Revolve 810 G2",
+        "description":[
+            "Subwoofer: Detachable, wireless surround speakers",
+            "Subwoofer W154 x H255 x D250mm, Satellites: W96 x H160 x D102mm"
+        ],
+        "price": "1,347.00",
+        "rating": "4.7"
+      },
+    {
+        "_id": "2",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2021/11/prodcut5-300x300.png",
+        "name": "Tablet Thin EliteBook Revolve 810 G2",
+        "description":[
+            "Connectivity: Bluetooth,USB, AUX,MMC,FM,Mic-in",
+            "FM digital radio & LED color display."
+        ],
+        "price" :"1,347.00",
+        "rating": "4.5"
+      },
+      
+    {
+        "_id": "4",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2021/11/prodcut4-300x300.png",
+        "name": "Wireless Audio System Multiroom 360",
+        "description":[
+            "Soundoutput: 5.1 Surround with 510W of power",
+            "Connectivity: 3 HDMI in/HDMI out (ARC), Bluetooth."
+        ],
+        "price": "69.00",
+        "rating": "5"
+      },
+      {
+        "_id": "3",
+        "img": "https://electro.madrasthemes.com/wp-content/uploads/2021/11/prodcut2-300x300.png",
+        "name": "Smartphone 6S 32GB LTE",
+        "description":[
+            "Active noise cancellation for immersive sound",
+            "Three sizes of soft, tapered silicone tips for a customisable fit."
+        ],
+        "price": "769.00",
+        "rating": "4.4"
+      }
+    
+]
